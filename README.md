@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&width=500&lines=Hey,+I'm+Diogo!;Cloud+%26+Platform+Engineer;YAML+intoxication+is+real)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&width=500&lines=Hey,+I'm+Diogo!;Cloud+%26+Platform+Engineer;)](https://git.io/typing-svg)
 
 Cloud & Platform Engineer. I build resilient infrastructure and automate the rest.
 
