@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&width=500&lines=Hey,+I'm+Diogo!;Cloud+%26+Platform+Engineer;)](https://git.io/typing-svg)
-
+# Hey 🙌
 Cloud & Platform Engineer. I build resilient infrastructure and automate the rest.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
