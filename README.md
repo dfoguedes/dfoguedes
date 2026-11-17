@@ -1,40 +1,38 @@
-# Hey 🙌
-Cloud & Platform Engineer. I build resilient infrastructure and automate the rest.
+## 👨‍💻 About Me
 
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![K8s](https://img.shields.io/badge/K8s-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
+Hi! I'm Diogo, a Platform Engineer from Portugal.
 
----
+- 🔭 **Current Work:** I'm currently working in Platform Engineering at Claranet Portugal/NOS SGPS, building and operating cloud-native platforms with a focus on Kubernetes, observability, automation, and developer experience.
 
-### Daily Drivers
+- ☁️ **Areas of Interest:** I'm passionate about Platform Engineering, Cloud Infrastructure, Kubernetes , Observability and AI. I enjoy building systems that help teams move faster while remaining reliable and secure.
 
-- **Cloud:** Azure · GCP
-- **Infra as Code:** Terraform · Ansible
-- **Containers:** Kubernetes · Docker · Helm
-- **Languages:** Go · Python · Bash
-- **GitOps:** ArgoCD · GitHub Actions
+- 🚀 **Current Focus:** Exploring platform automation, developer experience, observability at scale, and practical applications of AI in engineering workflows.
 
----
+- ⚡ **Free Time:** In my free time, I enjoy gaming 🎮, traveling 🌍, and discovering new ideas through books, podcasts, and engineering blogs.
 
-### Projects
+<br>
 
-| Repo | What it is |
-|------|------------|
-| [homelab](https://github.com/dfoguedes/homelab) | My Kubernetes playground at home |
-| [azure-infra-foundation](https://github.com/diogoguedes11/azure-infra-foundation) | Modular Landing Zones with Terraform |
-| [java-cicd](https://github.com/diogoguedes11/java-cicd) | Secure pipeline from commit to prod |
-| [lab](https://github.com/diogoguedes11/lab) | Random scripts and broken experiments |
+## 🛠 Languages and Tools
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
-### Certifications
+<br>
 
-**Google Cloud** (8x Pro) · **CKA** · **PCA** · **Terraform Associate** · **GitHub Actions**
+## 🏆 Certifications
 
----
-
-*Mostly found beard-deep in YAML files.*
+- ☁️ Google Cloud Professional Certifications
+- ⚓ Certified Kubernetes Administrator (CKA)
+- 🛡️ Certified Kubernetes Security Specialist (CKS)
+- 🏗️ HashiCorp Terraform Associate
+- 🚀 GitHub Actions
